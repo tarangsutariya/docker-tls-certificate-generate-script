@@ -9,7 +9,7 @@ chmod +x generate.sh
 ./generate.sh
 ```
 
-then provide signing password as well as domain name what will be used to connect to docker daemon remotly
+then when prompted provide signing password as well as domain name what will be used to connect to docker daemon remotly
 
 it creates required files in .docker directory 
 
