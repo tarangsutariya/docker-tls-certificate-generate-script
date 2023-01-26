@@ -66,8 +66,9 @@ TriggeredBy: ● docker.socket
     --tlscert=cert.pem \
     --tlskey=key.pem \
     -H=$HOST:2376 version
-    ```
-    to connect
+```
+
+to connect
 
 
 
